@@ -62,6 +62,8 @@ Once each of these options is filled out, click OK and save the set file as `set
 
 In your repo go to the "sets" folder, then in the top right click "add file" then "upload files", [here](../../upload/main/sets). Then drag and drop the `set_code-files` folders you created in step 4 in there. It's also allowed to select and upload a zip file of your files folder.
 
+Click "Commit changes", adding a commit message is optional. After a little bit your site will be updated, it can be visited from the url saved in step 2. You can check the status of the deployment in the actions tab, [here](../../actions).
+
 ## Future MSE Set Hub Updates
 
 To get updates to the scripts or resources, go to your repo on github saved in step 1. If you forgot your repo url visit your site saved in step 2 and add `/repo` to the end of the url.
